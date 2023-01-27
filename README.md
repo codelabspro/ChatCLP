@@ -17,3 +17,8 @@ It provides a clean API that makes it simple to build powerful NLP pipelines
 
 - How to finetune our own models
 
+
+## ChatCLP-pro
+
+* Pro version of ChatCLP
+
